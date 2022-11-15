@@ -1,0 +1,44 @@
+{
+   "listSong":[
+    {
+    "id":1,
+    "name": "Cứ Chill Thôi",
+    "singer": "Chillies - Suni Hạ Linh",
+    "time":"4:30",
+    "path": "/song/song1.mp3",
+    "image": "/images/song1.jpg"
+  },
+  {
+    "id":2,
+    "name": "Crush",
+    "singer": "Vani - An An",
+    "time":"3:18",
+    "path": "/song/song2.mp3",
+    "image": "/images/song2.jpg"
+  },
+  {
+    "id":3,
+    "name": "Vô Tình",
+    "singer": "Xesi - Hoaprox",
+    "time":"4:33",
+    "path": "/song/song3.mp3",
+    "image": "/images/song3.jpg"
+  },
+  {
+    "id":4,
+    "name": "Because I'm Stupid",
+    "singer": "SS501",
+    "time":"4:21",
+    "path": "/song/song4.flac",
+    "image": "/images/song4.jpg"
+  },
+  {
+    "id":5,
+    "name": "Mama Boy",
+    "singer": "AMEE",
+    "time":"3:24",
+    "path": "/song/song5.mp3",
+    "image": "/images/song5.jpg"
+  }
+   ] 
+}
