@@ -92,7 +92,12 @@ export default function Home() {
             <span>{music?.name}</span>
             <span style={{ fontSize: "14px" }}>{music?.artists_names}</span>
           </div>
-          <i class="material-icons">more_horiz</i>
+          <i
+            class="material-icons"
+            onClick={() => alert("chức năng này chưa làm")}
+          >
+            more_horiz
+          </i>
         </div>
         <div class="img-area">
           <img src={music?.thumbnail} alt=""></img>
