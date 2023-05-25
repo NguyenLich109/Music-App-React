@@ -94,7 +94,7 @@ export default function Home() {
           </div>
           <i
             class="material-icons"
-            onClick={() => alert("chức năng này chưa làm")}
+            onClick={() => alert("chức năng này chưa làm...")}
           >
             more_horiz
           </i>
